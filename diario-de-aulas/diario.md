@@ -1,0 +1,15 @@
+# Diário de aulas de Git Essencial
+
+### Aula 1 
+- 
+
+### Aula 1 v2 (27/02/2021 09:00 ~ 10:30)
+
+- Criação do repositório no GitHub
+- Inicialização de um versionamento em um projeto (`git init`)
+- Adição de um repositório remoto à um projeto local (`git remote add origin http://github.com/....`)
+- Commmit de alteração de conteúdo (`git commit`)
+- Subimos alterações (`git push origin branch`)
+- Trouxemos alterações da branch no repositório remoto (`git pull origin`)
+- Aprendemos a clonar um repositório (sem especificar nome, especificando nome e dentro de uma pasta vazia)
+
