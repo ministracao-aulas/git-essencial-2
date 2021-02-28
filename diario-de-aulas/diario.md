@@ -13,3 +13,7 @@
 - Trouxemos alterações da branch no repositório remoto (`git pull origin`)
 - Aprendemos a clonar um repositório (sem especificar nome, especificando nome e dentro de uma pasta vazia)
 
+### Aula 2 (28/02/2021)
+
+- Criar branches:
+    - Criar e mudar para a branch criada (`git checkout -b nova-branch`)
