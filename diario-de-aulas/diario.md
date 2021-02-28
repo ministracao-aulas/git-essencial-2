@@ -17,3 +17,9 @@
 
 - Criar branches:
     - Criar e mudar para a branch criada (`git checkout -b nova-branch`)
+    - Criar SEM mudar para a branch criada (`git branch nova-branch`)
+    - Alternando entre branches (`git checkout nome-da-branch-que-quero`)
+    - Fazendo merge de branches locais/trazendo alterações de outra branch para a branch atual (`git merge nome-da-branch-que-quero`)
+    - Fazendo merge de branches remotas/trazendo alterações de outra branch remota para a branch atual (`git pull origin nome-da-branch-que-quero`)
+    - Corrigindo conflitos de alterações
+    - Entendendo que posso ter N branchs locais mas não preciso ter as mesmas remoto se não quiser
