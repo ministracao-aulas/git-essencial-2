@@ -23,3 +23,22 @@
     - Fazendo merge de branches remotas/trazendo alterações de outra branch remota para a branch atual (`git pull origin nome-da-branch-que-quero`)
     - Corrigindo conflitos de alterações
     - Entendendo que posso ter N branchs locais mas não preciso ter as mesmas remoto se não quiser
+
+### Aula 3 (06/03/2021)
+
+- Ferramentas GUI para GIT (Graphic User Interface)
+    - Pros
+        - Apresentação amigável
+        - Botões que executam ações que normalmente vc terira que digitar
+        - Mostra visualmente o que está acontecendo (às vezes)
+    - Contras
+        - Se vc só utilizar GUI pode serque não se acostume a utilizar CLI
+        - Pode ficar refém de botões
+        - Nem sempre resolve todas as necessidades pois às vezesé necessário algum 'macete' que só o CLI te traz
+    - Algumas Ferramentas
+        - https://git-scm.com/downloads/guis
+
+- GIT CLI (Command Line Interface)
+    - Recursos avançados
+    - Mais flexibilidade no manejo das ações
+    - Traz mais profissionalismo para si
