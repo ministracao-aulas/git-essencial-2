@@ -42,3 +42,10 @@
     - Recursos avançados
     - Mais flexibilidade no manejo das ações
     - Traz mais profissionalismo para si
+
+### Aula 4 (13/03/2021)
+
+- Usando ferramentas gráficas junto com o CLI
+    - Commit, pull, fetch, push, stash
+- Mostrando rollback progressivo
+    - Voltando um arquivo à um ponto específico do hsotórico
