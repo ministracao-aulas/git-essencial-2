@@ -6,5 +6,8 @@ Alterando online o READMDE na master
 
 alterado
 
-aterado A
+alterado A
+
 alterado B
+
+alterado C
